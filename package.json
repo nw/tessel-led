@@ -1,0 +1,22 @@
+{
+  "name": "tessel-led",
+  "version": "0.0.1",
+  "description": "LED animation helper for tessel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tessel",
+    "led",
+    "lights",
+    "blink",
+    "flash"
+  ],
+  "author": "Nathan White <_@nw.is>",
+  "license": "MIT",
+  "hardware": {
+    "./README.md": false,
+    "./examples": false
+  }
+}
